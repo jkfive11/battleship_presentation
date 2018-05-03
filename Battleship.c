@@ -1,5 +1,6 @@
 //BattleShip
 //Jonathan Keller, Corey Hupper, and John Lowery
+//This is a presentation test
 
 #include <stdio.h>
 

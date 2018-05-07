@@ -2569,7 +2569,7 @@ print_screen();
 
 place_enemy_ships();
 
-//char difficulty=select_difficulty();
+char difficulty=select_difficulty();
 
 char difficulty='e';
 

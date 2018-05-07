@@ -2381,7 +2381,11 @@ void place_ships()
   }
     if(difference!=0&&difference!=1)
     printf("Invalid Range, restart program\n");
+    
+    
+  printf("    ___________________________________________________________\n");
 
+      printf("   |%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|\n", ah[0], ah[0], ah[0], ah[0], ah[0], ah[1], ah[1], ah[1], ah[1], ah[1], ah[2], ah[2], ah[2], ah[2], ah[2], ah[3], ah[3], ah[3], ah[3], ah[3], ah[4], ah[4], ah[4], ah[4], ah[4], ah[5], ah[5], ah[5], ah[5], ah[5], ah[6], ah[6], ah[6], ah[6], ah[6], ah[7], ah[7], ah[7], ah[7], ah[7], ah[8], ah[8], ah[8], ah[8], ah[8], ah[9], ah[9], ah[9], ah[9], ah[9], ah[10], ah[10], ah[10], ah[10], ah[10]);
 
       printf("   |%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|%d%d%d%d%d|\n", ah[0], ah[0], ah[0], ah[0], ah[0], ah[1], ah[1], ah[1], ah[1], ah[1], ah[2], ah[2], ah[2], ah[2], ah[2], ah[3], ah[3], ah[3], ah[3], ah[3], ah[4], ah[4], ah[4], ah[4], ah[4], ah[5], ah[5], ah[5], ah[5], ah[5], ah[6], ah[6], ah[6], ah[6], ah[6], ah[7], ah[7], ah[7], ah[7], ah[7], ah[8], ah[8], ah[8], ah[8], ah[8], ah[9], ah[9], ah[9], ah[9], ah[9], ah[10], ah[10], ah[10], ah[10], ah[10]);
 

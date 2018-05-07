@@ -2571,7 +2571,7 @@ place_enemy_ships();
 
 char difficulty=select_difficulty();
 
-char difficulty='e';
+difficulty='e';
 
 printf("Welcome to Battleship!\nPress Enter to Continue!");
     
